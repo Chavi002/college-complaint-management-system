@@ -25,20 +25,35 @@ README - College Complaint Management System
 *(Add images here)*
 
 1. Login Page
+   
    ![Login Page](./Images/LoginPage.png)
+   
 2. Student Dashboard
-   ![Student Dashboard](./Images/StudentDashboard.png) 
+   
+   ![Student Dashboard](./Images/StudentDashboard.png)
+   
 3. Admin Dashboard
+   
    ![Admin Dashboard](./Images/AdminDashboard.png)
+   
 4. Complaint Form
+   
    ![Complaint Registration Form](./Images/ComplaintRegistrationForm.png)
+
 5. Student Registration Page
+   
    ![Student Registration](./Images/StudentRegistrationPage.png)
+   
 6. Student Complaint History
+   
    ![Student Complaint History](./Images/StudentComplaintHistory.png)
+   
 7. List of Complaints (Admin)
+   
    ![List of Complaints on Admin Dashboard](./Images/ListOfComplaintsOnAdminDashboard.png)
+   
 8. Complaint Filters
+   
    ![Complaint Filters](./Images/ComplaintFilters.png)   
    
 
