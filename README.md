@@ -22,7 +22,6 @@ README - College Complaint Management System
 - **Backend:** Spring Boot, MySQL
 
 ## Screenshots
-*(Add images here)*
 
 1. Login Page
    
